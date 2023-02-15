@@ -1,0 +1,15 @@
+
+input {
+    display: block;
+}
+
+.result {
+    display: block;
+    text-align: center;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+#desc {
+    font-size: 0.5em;
+}
